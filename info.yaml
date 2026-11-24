@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
-project:
+project: BCD
   wokwi_id:     481591426477736961       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # BCD_CHIP
-  author:       ""      # AND_23
+  title:        "BCD_CHIP"      # BCD_CHIP
+  author:       "AND_26"      # AND_23
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # CHIP CENTRO DE NANO
+  description:  "CHIPNANO"      # CHIP CENTRO DE NANO
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
